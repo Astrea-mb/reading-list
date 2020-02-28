@@ -32,3 +32,15 @@
   - [ ] Tome 5 `CendreCœur`
   - [ ] Tome 6 `OrageDémon`
   - [ ] Tome 7 `ÂmeRaven`
+
+- [ ] `Le cycle des princes d'Ambre` *Roger Zelazny*
+  - [ ] Tome 1
+  - [ ] Tome 2
+  - [ ] Tome 3
+  - [ ] Tome 4
+  - [ ] Tome 5
+  - [ ] Tome 6
+  - [ ] Tome 7
+  - [ ] Tome 8
+  - [ ] Tome 9
+  - [ ] Tome 10
