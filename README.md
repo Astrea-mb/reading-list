@@ -44,3 +44,11 @@
   - [ ] Tome 8
   - [ ] Tome 9
   - [ ] Tome 10
+
+## Developer
+
+  - Design pattern
+    - Command bus
+    - Instrumentation
+    - Trait
+    - 
