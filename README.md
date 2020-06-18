@@ -1,4 +1,6 @@
 ## Science-Fiction
+- [ ] `Les Chants de la Terre Lointaine` *Arthur C. Clarke*
+
 - [ ] `Artificial condition` *Martha Wells*
 
 - [ ] `Children of time` *Adrian Tchaikovsky*
@@ -58,4 +60,3 @@
     - Command bus
     - Instrumentation
     - Trait
-    - 
